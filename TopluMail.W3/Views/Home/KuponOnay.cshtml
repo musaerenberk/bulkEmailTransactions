@@ -1,0 +1,16 @@
+﻿@model Udemy.TopluMail.Entities.Musteri
+
+@{
+    ViewBag.Title = "KuponOnay";
+}
+
+<h2>Kupon Kod Kontrol</h2>
+
+@if(Model != null)
+{
+    <div>Kupon Kodunuz Onaylandı</div>
+}
+else
+{
+    <div>Kupon Kodunuz sistem içerisinde bulunamadı</div>
+}

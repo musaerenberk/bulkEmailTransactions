@@ -1,0 +1,12 @@
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\NLog.config
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\Udemy.TopluMail.Core.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\Udemy.TopluMail.Core.pdb
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\Newtonsoft.Json.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\NLog.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\Udemy.TopluMail.Entities.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\Udemy.TopluMail.Entities.pdb
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\Newtonsoft.Json.xml
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\bin\Debug\NLog.xml
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\obj\Debug\Udemy.TopluMail.Core.csprojResolveAssemblyReference.cache
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\obj\Debug\Udemy.TopluMail.Core.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Core\obj\Debug\Udemy.TopluMail.Core.pdb

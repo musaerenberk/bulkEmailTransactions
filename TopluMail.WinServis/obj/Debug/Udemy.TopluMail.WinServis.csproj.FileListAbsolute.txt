@@ -1,0 +1,17 @@
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\NLog.config
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Udemy.TopluMail.WinServis.exe.config
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Udemy.TopluMail.WinServis.exe
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Udemy.TopluMail.WinServis.pdb
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Udemy.TopluMail.Core.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Udemy.TopluMail.Entities.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\NLog.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Newtonsoft.Json.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Udemy.TopluMail.Core.pdb
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Udemy.TopluMail.Entities.pdb
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\NLog.xml
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\bin\Debug\Newtonsoft.Json.xml
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\obj\Debug\Udemy.TopluMail.WinServis.csprojResolveAssemblyReference.cache
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\obj\Debug\Udemy.TopluMail.WinServis.exe
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\obj\Debug\Udemy.TopluMail.WinServis.pdb
+C:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\obj\Debug\Udemy.TopluMail.WinServis.ProjectInstaller.resources
+C:\Udemy\Udemy.TopluMail\Udemy.TopluMail.WinServis\obj\Debug\Udemy.TopluMail.WinServis.csproj.GenerateResource.Cache

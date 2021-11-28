@@ -1,0 +1,5 @@
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Entities\bin\Debug\Udemy.TopluMail.Entities.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Entities\bin\Debug\Udemy.TopluMail.Entities.pdb
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Entities\obj\Debug\Udemy.TopluMail.Entities.csprojResolveAssemblyReference.cache
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Entities\obj\Debug\Udemy.TopluMail.Entities.dll
+c:\Udemy\Udemy.TopluMail\Udemy.TopluMail.Entities\obj\Debug\Udemy.TopluMail.Entities.pdb
